@@ -3,10 +3,16 @@ export const metadata = {
   description: '',
 }
 
-export default function MarketingLayout({ children }) {
+const MarketingLayout = ({
+  children
+}: {
+  children: React.ReactNode;
+}) => {
   return (
     <html lang="en">
       <body>{children}</body>
     </html>
   )
 }
+
+export default MarketingLayout;
