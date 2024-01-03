@@ -1,3 +1,9 @@
+## Problem
+
+This works on development but when deployed to Vercel it get 404 NOT FOUND.
+
+https://nextjs.org/docs/app/building-your-application/routing/route-groups
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
